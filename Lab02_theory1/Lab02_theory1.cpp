@@ -13,6 +13,7 @@ int main()
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
     cout << "New empty line" << endl;
+    cout << "One more empty line" << endl;
     
     cin.get();
     return 1;
